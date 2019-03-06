@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1551899327858">
+  <folder name="css">
+    <file name="site_global.css" crc="132789398"/>
+    <file name="index.css" crc="4133621821" ref="index"/>
+    <file name="iefonts_index.css" crc="8254726" ref="index"/>
+    <file name="research.css" crc="3858617526" ref="research"/>
+    <file name="iefonts_research.css" crc="227977139" ref="research"/>
+    <file name="biography.css" crc="258059230" ref="biography"/>
+    <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
+  </folder>
+  <folder name="assets">
+    <file name="grant_remmen_curriculum_vitae_website.pdf" crc="197525011" seo="true" mt="1549843785000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:biography"/>
+    <file name="museutils.js" crc="3803043152" ref="index:research:biography"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research:biography"/>
+    <file name="museconfig.js" crc="380897831" ref="index:research:biography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:research:biography"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:research:biography"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:research:biography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:biography"/>
+    <file name="require.js" crc="4157109226" ref="index:research:biography"/>
+  </folder>
+  <folder name="images">
+    <file name="miller_knot_orange.png" crc="63260966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bctplogo_orange.png" crc="4172287355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="attractorpic-buttonu540-fr.jpg" crc="147346814" ref="index"/>
+    <file name="100_2513-buttonu5451-fr.jpg" crc="3975905010" ref="index"/>
+    <file name="insignias-buttonu5453-fr.jpg" crc="121328510" ref="index"/>
+    <file name="21-alt_feynman_mural_in_downs-l_credit_takashige_ikawa_image.jpg" crc="3997648747" ref="index:research:biography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="biography" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="research:biography">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="research:biography">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="inspire_logo_hep.jpg" crc="4238259073" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4073184618" seo="true" mt="1540086437178" redirect="true"/>
+  <file name="research.html" crc="195041435" seo="true" mt="1551749141839" redirect="true"/>
+  <file name="biography.html" crc="57009574" seo="true" mt="1540086425838" redirect="true"/>
+</manifest>
