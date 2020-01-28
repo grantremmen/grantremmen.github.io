@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1572393902438">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1580237226976">
   <folder name="css">
     <file name="site_global.css" crc="4035196166"/>
     <file name="index.css" crc="4133621821" ref="index"/>
     <file name="iefonts_index.css" crc="8254726" ref="index"/>
-    <file name="research.css" crc="3895485337" ref="research"/>
-    <file name="iefonts_research.css" crc="353786703" ref="research"/>
+    <file name="research.css" crc="151392612" ref="research"/>
+    <file name="iefonts_research.css" crc="4266770666" ref="research"/>
     <file name="biography.css" crc="258059230" ref="biography"/>
     <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
   </folder>
@@ -39,8 +39,8 @@
     <file name="insignias-buttonu5453-fr.jpg" crc="121328510" ref="index"/>
     <file name="21-alt_feynman_mural_in_downs-l_credit_takashige_ikawa_image.jpg" crc="3997648747" ref="index:research:biography">
       <caption webpage="index" alt=""/>
-      <caption webpage="research" alt=""/>
       <caption webpage="biography" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
     <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="research:biography">
       <caption webpage="research" alt=""/>
@@ -53,6 +53,6 @@
     </file>
   </folder>
   <file name="index.html" crc="4073184618" seo="true" mt="1540086437178" redirect="true"/>
-  <file name="research.html" crc="4137399078" seo="true" mt="1572393886768" redirect="true"/>
+  <file name="research.html" crc="4109230659" seo="true" mt="1580237197477" redirect="true"/>
   <file name="biography.html" crc="57009574" seo="true" mt="1540086425838" redirect="true"/>
 </manifest>
