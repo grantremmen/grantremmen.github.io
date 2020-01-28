@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1580237226976">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1580237723582">
   <folder name="css">
     <file name="site_global.css" crc="4035196166"/>
     <file name="index.css" crc="4133621821" ref="index"/>
@@ -9,7 +9,7 @@
     <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
   </folder>
   <folder name="assets">
-    <file name="grant_remmen_curriculum_vitae_website.pdf" crc="307127525" seo="true" mt="1567876956000"/>
+    <file name="grant_remmen_curriculum_vitae_website.pdf" crc="106419319" seo="true" mt="1579835885000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:biography"/>
