@@ -2,34 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grantremmen.com/index.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2020-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://grantremmen.com/images/miller_knot_orange.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grantremmen.com/images/bctplogo_orange.png</image:loc>
+      <image:loc>http://grantremmen.com/images/kitp_logo_orange.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grantremmen.com/research.html</loc>
-    <lastmod>2020-01-28</lastmod>
+    <lastmod>2020-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://grantremmen.com/images/inspire_logo_hep.jpg</image:loc>
+      <image:loc>http://grantremmen.com/images/inspire%20logo.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grantremmen.com/biography.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2020-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://grantremmen.com/assets/grant_remmen_curriculum_vitae_website.pdf</loc>
-    <lastmod>2020-01-23</lastmod>
+    <lastmod>2020-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
