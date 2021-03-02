@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713304461">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713681551">
   <folder name="css">
-    <file name="site_global.css" crc="4035196166"/>
-    <file name="biography.css" crc="371000274" ref="biography"/>
+    <file name="site_global.css" crc="132789398"/>
+    <file name="biography.css" crc="381646130" ref="biography"/>
     <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
     <file name="index.css" crc="183523408" ref="index"/>
     <file name="iefonts_index.css" crc="4247607453" ref="index"/>
@@ -36,13 +36,15 @@
     <file name="insignias-buttonu5453-fr.jpg" crc="121328510" ref="index"/>
     <file name="21-alt_feynman_mural_in_downs-l_credit_takashige_ikawa_image.jpg" crc="3997648747" ref="index:research:biography">
       <caption webpage="index" alt=""/>
-      <caption webpage="research" alt=""/>
       <caption webpage="biography" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
     <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="research:biography">
+      <caption webpage="biography" alt=""/>
       <caption webpage="research" alt=""/>
     </file>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="research:biography">
+      <caption webpage="biography" alt=""/>
       <caption webpage="research" alt=""/>
     </file>
     <file name="inspire logo.jpg" crc="68016113" seo="true" ref="research">
@@ -51,5 +53,5 @@
   </folder>
   <file name="index.html" crc="202091485" seo="true" mt="1602102860164" redirect="true"/>
   <file name="research.html" crc="4216511561" seo="true" mt="1614713294503" redirect="true"/>
-  <file name="biography.html" crc="4208008491" seo="true" mt="1602103040202" redirect="true"/>
+  <file name="biography.html" crc="4243940786" seo="true" mt="1614713667599" redirect="true"/>
 </manifest>
