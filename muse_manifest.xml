@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713052792">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713304461">
   <folder name="css">
-    <file name="site_global.css" crc="132789398"/>
+    <file name="site_global.css" crc="4035196166"/>
     <file name="biography.css" crc="371000274" ref="biography"/>
     <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
     <file name="index.css" crc="183523408" ref="index"/>
     <file name="iefonts_index.css" crc="4247607453" ref="index"/>
-    <file name="research.css" crc="421395871" ref="research"/>
+    <file name="research.css" crc="3838286121" ref="research"/>
     <file name="iefonts_research.css" crc="3911723666" ref="research"/>
   </folder>
   <folder name="assets">
@@ -50,6 +50,6 @@
     </file>
   </folder>
   <file name="index.html" crc="202091485" seo="true" mt="1602102860164" redirect="true"/>
-  <file name="research.html" crc="28835835" seo="true" mt="1614713020920" redirect="true"/>
+  <file name="research.html" crc="4216511561" seo="true" mt="1614713294503" redirect="true"/>
   <file name="biography.html" crc="4208008491" seo="true" mt="1602103040202" redirect="true"/>
 </manifest>
