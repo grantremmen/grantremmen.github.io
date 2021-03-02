@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713681551">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grantremmen.com" resolutions="1x" timestamp="1614713795569">
   <folder name="css">
-    <file name="site_global.css" crc="132789398"/>
+    <file name="site_global.css" crc="4035196166"/>
     <file name="biography.css" crc="381646130" ref="biography"/>
     <file name="iefonts_biography.css" crc="3839916648" ref="biography"/>
     <file name="index.css" crc="183523408" ref="index"/>
