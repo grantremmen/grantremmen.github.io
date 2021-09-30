@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Grant Remmen</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=132789398"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=183523408" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=156976818" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=4247607453"/>
@@ -26,7 +26,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/open-sans:n8,n4:default;josefin-sans:i7:default.js" type="text/javascript"></script>
+  <script src="https://webfonts.creativecloud.com/josefin-sans:i7:default;open-sans:n8,n4:default.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
@@ -136,7 +136,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#pamphletu422', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu422 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u6486').registerPositionScrollEffect([{"in":[-Infinity,376],"speed":[0,1]},{"in":[376,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u6486').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,376]},{"speed":[0,0],"in":[376,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
