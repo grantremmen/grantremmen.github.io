@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://grantremmen.com/index.html</loc>
-    <lastmod>2021-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://grantremmen.com/images/kitp_logo_orange.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://grantremmen.com/research.html</loc>
-    <lastmod>2021-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://grantremmen.com/images/inspire%20logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://grantremmen.com/biography.html</loc>
-    <lastmod>2021-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://grantremmen.com/assets/grant_remmen_curriculum_vitae_website.pdf</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+<?xml-stylesheet type="text/xsl" href="https://grantremmen.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://grantremmen.github.io/</loc>
+</url>
+<url>
+<loc>https://grantremmen.github.io/biography.html</loc>
+<lastmod>2022-01-07T16:16:02-08:00</lastmod>
+<image:image>
+<image:loc>https://grantremmen.github.io/media/posts/2/GrantPortraitFixed.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://grantremmen.github.io/curriculum-vitae.html</loc>
+<lastmod>2022-01-10T13:29:36-08:00</lastmod>
+<image:image>
+<image:loc>https://grantremmen.github.io/media/posts/7/ZetaFigUCSB.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://grantremmen.github.io/research.html</loc>
+<lastmod>2022-01-10T16:31:49-08:00</lastmod>
+<image:image>
+<image:loc>https://grantremmen.github.io/media/posts/1/electricBH-3.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
 </urlset>

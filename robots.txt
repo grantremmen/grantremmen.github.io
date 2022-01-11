@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://grantremmen.github.io/sitemap.xml
